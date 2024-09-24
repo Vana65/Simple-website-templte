@@ -1,6 +1,6 @@
 ### Demo 
 
- # Travel Agency Website Template
+ # Simple Website Template
 
 ## Description
 This is a responsive website template for a travel agency created using HTML and CSS. The project showcases a clean design with various sections including services, gallery, about us, and a footer. It also includes animations to enhance user experience.
